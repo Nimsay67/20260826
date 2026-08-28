@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Minha Página</title>
+            </head>
+            <body>
+
+                <h1>Minha Primeira Página</h1>
+
+                    <p>
+                            Olá! Esta é a minha primeira página criada em HTML
+                                    e publicada com o GitHub Pages.
+                                        </p>
+
+                                            <h2>Identificação</h2>
+
+                                                <p><strong>Nome:</strong> Yasmin Gabrielly da Rosa</p>
+                                                    <p><strong>Número:</strong> 34</p>
+                                                        <p><strong>Turma:</strong> 1º Ano A</p>
+
+                                                        </body>
+                                                        </html>
+                                                        
